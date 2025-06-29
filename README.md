@@ -32,8 +32,7 @@ This project implements a modular drone deconfliction system in Python. It simul
 Clone the repo and install dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo>
+git clone https://github.com/hrishisharma/drone_deconfliction.git
 pip install -r requirements.txt
 ```
 
